@@ -1,4 +1,5 @@
 Nápoje:
 - Víno červené
 - Víno biele
-- Šampanske
+- Šampanskegit push origin main
+- Rusky standart
