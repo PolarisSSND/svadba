@@ -1,5 +1,4 @@
 Nápoje:
 - Víno červené
 - Víno biele
-- Nealko
-- Šampanské
+- Šampanske
